@@ -1,5 +1,13 @@
 # terraform-azurerm-monitor-servicebus
 
+## Part of PANIC Framework
+
+This module is part of the [PANIC Azure Monitoring Framework](https://github.com/AgicCompany/Standard.PANIC). See the main repository for:
+- Complete documentation
+- Profile system overview
+- Implementation guides
+- Full list of available modules
+
 Terraform module for Azure Service Bus monitoring alerts using the PANIC framework.
 
 ## Features
